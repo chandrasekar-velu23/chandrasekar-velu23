@@ -12,7 +12,7 @@
 - 🔐 Implementing secure authentication with JWT and session management
 - 🚀 Passionate about building scalable and secure web applications
 - 🎯 Goal: Contributing to impactful open-source projects
-- 📚 Currently exploring Docker, Redis, and advanced React patterns
+- 📚 Currently exploring advanced React patterns
 
 ---
 
