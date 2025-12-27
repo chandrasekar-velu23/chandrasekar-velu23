@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandrasekar V
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Junior+Full-Stack+Developer;MERN+Stack+Enthusiast;Cloud+%26+Backend+Developer;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Junior+Full-Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things)
 
 ---
 
